@@ -2109,7 +2109,7 @@
 
 // Homing speeds (linear=mm/min, rotational=°/min)
 // #define HOMING_FEEDRATE_MM_M { (50*60), (50*60), (4*60) } //Custom Elboby
-#define HOMING_FEEDRATE_MM_M { (150*60), (1500*60), (10*60) } //Custom Elboby - 2024
+#define HOMING_FEEDRATE_MM_M { (150*60), (150*60), (10*60) } //Custom Elboby - 2024
 
 
 // Validate that endstops are triggered on homing moves
