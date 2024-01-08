@@ -35,4 +35,3 @@ Este es un firmware personalizado de Marlin 2.1.2.1 para adaptar el Sprite Extru
 #define Z_SAFE_HOMING
 #define HOMING_FEEDRATE_MM_M { (150*60), (150*60), (10*60) }
 #define NOZZLE_PARK_POINT { (X_MIN_POS + 10), (Y_MAX_POS - 10), 20 }
-
