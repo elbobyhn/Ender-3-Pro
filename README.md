@@ -6,6 +6,7 @@ Este es un firmware personalizado de Marlin 2.1.2.1 para adaptar el Sprite Extru
 * Creality CR Touch
 * Creality Sprite Extruder Pro
 * Dual Z axis
-
+~~~
 #define EXTRUDE_MAXLENGTH 500 
 #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 424.9 }
+~~~
